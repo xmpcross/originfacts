@@ -36,7 +36,7 @@ const SectionMagazine6: FC<SectionMagazine6Props> = ({
 		return (
 			<main className="relative">
 				{/* Image */}
-				<div className="aspect-h-9 aspect-w-9 overflow-hidden rounded-3xl md:aspect-h-5 lg:rounded-[4px]">
+				<div className="aspect-h-9 aspect-w-9 overflow-hidden rounded-3xl md:aspect-h-5 lg:rounded-[40px]">
 					<MyImage
 						fill
 						alt={title || ''}

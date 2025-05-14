@@ -98,7 +98,7 @@ const SingleTypeAudio: FC<Props> = ({ post }) => {
         {/* SINGLE_AUDIO HEADER */}
         <header className="relative lg:container">
           <div
-            className={`bg-white dark:bg-neutral-900 shadow-2xl px-4 sm:px-5 py-7 lg:p-11 rounded-2xl md:rounded-[4px] flex flex-col md:flex-row gap-8 lg:gap-10 ${
+            className={`bg-white dark:bg-neutral-900 shadow-2xl px-4 sm:px-5 py-7 lg:p-11 rounded-2xl md:rounded-[40px] flex flex-col md:flex-row gap-8 lg:gap-10 ${
               isAudio ? "items-center justify-center" : "items-start"
             }`}
           >

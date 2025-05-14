@@ -27,7 +27,7 @@ const SectionHero3: FC<SectionHero3Props> = ({ posts, className = '' }) => {
 					enableDefaultPlaceholder
 					priority
 				/>
-				<span className="absolute inset-0 rounded-[4px] bg-black bg-opacity-50"></span>
+				<span className="absolute inset-0 rounded-[40px] bg-black bg-opacity-50"></span>
 				<div className="absolute inset-0 p-5 md:p-14 xl:p-20 2xl:p-28">
 					<div className="max-w-2xl">
 						<h2 className="text-xl font-semibold text-white sm:text-3xl lg:text-4xl">
